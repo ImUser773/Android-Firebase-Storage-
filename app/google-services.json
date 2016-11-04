@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "60716109787",
+    "firebase_url": "https://fir-fileupload.firebaseio.com",
+    "project_id": "fir-fileupload",
+    "storage_bucket": "fir-fileupload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60716109787:android:92baae5e20d6d67d",
+        "android_client_info": {
+          "package_name": "com.iamdeveloper.firebasefileupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60716109787-8gc9db2pbe8b1p8sfb6uurbgk55jtq5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9xmaLcjYJBSjoHG3Ptjif5CMbCIjTpv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
